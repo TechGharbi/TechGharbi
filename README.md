@@ -7,7 +7,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,php,mysql,opencv,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,opencv" />
 </p>
 
 ---
