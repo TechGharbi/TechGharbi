@@ -1,4 +1,29 @@
-## Hi there 👋
+## Hi there 👋, I'm Feriel
+### I'm a Computer and software systems engineering
+
+🌱 I’m currently learning about **AI Agents** and **NLP** concepts.  
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,php,mysql,opencv,tensorflow" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Feriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerielGharbi&show_icons=true&theme=dark)
+
+### 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerielGharbi&layout=compact&theme=dark)
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+![Profile views](https://komarev.com/ghpvc/?username=FerielGharbi&color=red)
 
 <!--
 **TechGharbi/TechGharbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
