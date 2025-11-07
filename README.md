@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Feriel
+## Hi there 👋, I'm Gharbi
 ### I'm a Computer and software systems engineering
 
 🌱 I’m currently learning about **AI Agents** and **NLP** concepts.  
